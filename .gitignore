@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+aot/
+!node_modules/core-js/client/shim.min.js
+!node_modules/zone.js/dist/zone.js
